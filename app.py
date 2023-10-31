@@ -13,3 +13,5 @@ note_la = np.sin(frequency_la * t * 2 * np.pi)
 
 st.audio(note_la, sample_rate=sample_rate, autoplay=True)
 
+st.video("https://www.youtube.com/watch?v=99OEoP5sy0U", autoplay=True)
+
